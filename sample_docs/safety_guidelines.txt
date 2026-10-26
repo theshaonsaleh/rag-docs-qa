@@ -1,0 +1,68 @@
+ACME WIDGETS SAFETY GUIDELINES
+
+General Safety Rules
+====================
+Safety is our top priority. All employees and visitors must follow these guidelines to maintain a safe working environment. Report any safety hazards immediately to your supervisor or the safety coordinator.
+
+Personal Protective Equipment (PPE)
+===================================
+Required PPE in manufacturing areas:
+- Safety glasses with side shields (ANSI Z87.1 rated)
+- Steel-toed safety boots
+- Hearing protection in designated high-noise areas (above 85 dB)
+- Gloves when handling sharp objects or chemicals
+
+The company provides all required PPE at no cost to employees. Damaged or worn PPE must be replaced immediately by contacting the safety office.
+
+Emergency Procedures
+====================
+In case of fire:
+1. Activate the nearest fire alarm pull station
+2. Evacuate the building using the nearest exit
+3. Assemble at the designated meeting point in the east parking lot
+4. Do not re-enter the building until cleared by emergency personnel
+
+Fire extinguishers are located throughout the facility. Employees are trained in their use during orientation and annual safety refresher courses.
+
+First Aid
+=========
+First aid kits are located in the break rooms and manufacturing floor supervisors' offices. For minor injuries, seek assistance from a trained first aid provider (identified by green safety vest). For serious injuries, call 911 immediately and notify security.
+
+The company nurse is available Monday through Friday, 8:00 AM to 4:30 PM, in the medical office (Room 105).
+
+Hazardous Materials
+===================
+Some cleaning solvents and lubricants used in manufacturing are classified as hazardous materials. Safety Data Sheets (SDS) for all chemicals are available in the digital SDS database and posted near storage areas.
+
+Guidelines for handling hazardous materials:
+- Wear appropriate PPE as specified on the SDS
+- Ensure adequate ventilation
+- Store chemicals in properly labeled containers
+- Never mix chemicals unless specifically instructed
+- Dispose of waste in designated containers only
+
+Machine Safety
+==============
+Only trained and authorized personnel may operate manufacturing equipment. Machine guards must remain in place at all times during operation. Lock-out/Tag-out (LOTO) procedures must be followed before performing maintenance on any equipment.
+
+Never reach into moving machinery. Report any malfunctioning equipment immediately and attach an "Out of Service" tag.
+
+Ergonomics
+==========
+Proper lifting technique:
+- Bend at the knees, not the waist
+- Keep the load close to your body
+- Avoid twisting while carrying heavy items
+- Ask for assistance with loads over 50 pounds
+
+Adjustable workstations are available for employees requiring ergonomic accommodations. Contact HR to request an ergonomic assessment.
+
+Incident Reporting
+==================
+All accidents, injuries, and near-miss incidents must be reported within 24 hours using the online incident reporting system. Even minor incidents should be reported to identify potential hazards and prevent future accidents.
+
+Safety Training
+===============
+New employees complete safety orientation during their first week. Annual refresher training is mandatory for all staff. Additional specialized training is provided for forklift operators, hazardous materials handlers, and emergency response team members.
+
+Safety inspections are conducted quarterly by the safety committee. Employees are encouraged to join the committee and participate in maintaining our excellent safety record.

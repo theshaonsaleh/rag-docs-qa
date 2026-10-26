@@ -1,0 +1,29 @@
+ACME WIDGETS COMPANY POLICIES
+
+Security Policy
+===============
+All employees must wear their security badge at all times while on company premises. Visitor badges must be obtained at the front desk and returned upon departure. The building is accessible from 6:00 AM to 8:00 PM on weekdays. Weekend access requires prior authorization from building management.
+
+IT Usage Policy
+===============
+Company computers and network resources are provided for work-related purposes. Limited personal use is permitted during breaks. Employees must not install unauthorized software or access inappropriate content. All devices must have company-approved antivirus software installed and kept up to date.
+
+Email and Communication
+=======================
+Professional communication is expected in all company emails. Personal email should not be used for company business. Confidential information must not be shared outside the organization without proper authorization. Large file attachments over 10MB should be shared using the company file-sharing system rather than email.
+
+Expense Reimbursement
+=====================
+Business-related expenses can be submitted for reimbursement through the finance portal. Receipts must be provided for all expenses over $25. Mileage reimbursement for personal vehicle use is calculated at $0.65 per mile. All expense reports must be submitted within 30 days of the expense date.
+
+Parking Policy
+==============
+Employee parking is available in the north lot on a first-come, first-served basis. Reserved parking spots are available for disabled employees near the main entrance. Visitor parking is located in the south lot. All vehicles must display a valid parking permit obtained from the facilities department.
+
+Dress Code
+==========
+Business casual attire is the standard dress code. Jeans are permitted on Fridays. Safety equipment including steel-toed boots and safety glasses must be worn in manufacturing areas at all times. The company provides safety equipment to all employees working in these areas.
+
+Environmental Policy
+====================
+Acme Widgets is committed to environmental sustainability. Recycling bins are located throughout the facility. Employees are encouraged to reduce paper usage by utilizing digital documents when possible. The company has implemented energy-efficient lighting and climate control systems to reduce our carbon footprint.
