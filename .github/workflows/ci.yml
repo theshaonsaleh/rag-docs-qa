@@ -1,0 +1,61 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, cursor/* ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        python-version: ["3.9", "3.10", "3.11"]
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Cache pip packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run tests
+      run: |
+        pytest test_rag.py -v --tb=short
+      env:
+        # Ensure tests run in offline mode
+        OPENAI_API_KEY: ""
+    
+    - name: Test CLI help
+      run: |
+        python cli.py --help
+        python cli.py ingest --help
+        python cli.py query --help
+    
+    - name: Test ingestion
+      run: |
+        python cli.py ingest
+    
+    - name: Test query
+      run: |
+        python cli.py query "What are the working hours?"
+    
+    - name: Run evaluation
+      run: |
+        python evaluate.py
